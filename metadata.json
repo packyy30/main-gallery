@@ -1,0 +1,25 @@
+{
+  "gallery_title": "Main Gallery",
+  "gallery_description": "VRChat Dynamic Gallery",
+  "last_updated": "2026-02-15 19:10:07",
+  "images": [
+    {
+      "file_hash": "34f36753",
+      "date": "2026-02-11",
+      "title": "uogessar",
+      "description": "uogessar",
+      "category": "Group Photo",
+      "tags": [
+        "mashirogumi"
+      ],
+      "photographer": "packyy"
+    }
+  ],
+  "categories": [
+    "Uncategorized",
+    "Main Event",
+    "Selfie",
+    "Landscape",
+    "Group Photo"
+  ]
+}
