@@ -1,8 +1,19 @@
 {
   "gallery_title": "Main Gallery",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-02-15 19:10:07",
+  "last_updated": "2026-02-15 19:12:33",
   "images": [
+    {
+      "file_hash": "7e9f6dc3",
+      "date": "2026-02-12",
+      "title": "lumina-bunny",
+      "description": "",
+      "category": "Selfie",
+      "tags": [
+        "Lumina"
+      ],
+      "photographer": "packyy"
+    },
     {
       "file_hash": "34f36753",
       "date": "2026-02-11",
