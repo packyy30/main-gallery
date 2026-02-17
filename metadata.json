@@ -1,8 +1,19 @@
 {
   "gallery_title": "Main Gallery",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-02-15 19:35:38",
+  "last_updated": "2026-02-18 00:44:04",
   "images": [
+    {
+      "file_hash": "669c482b",
+      "date": "2026-02-12",
+      "title": "Sanrio VFes",
+      "description": "",
+      "category": "Selfie",
+      "tags": [
+        "sanrio"
+      ],
+      "photographer": "packyy"
+    },
     {
       "file_hash": "f317b3ed",
       "date": "2026-02-12",
